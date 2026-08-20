@@ -14,21 +14,8 @@ The dashboard was designed to answer important business questions such as:
 •	How are customers distributed across different cities?
 •	Which payment methods are most commonly used?
 •	What is the distribution of order statuses?
-•	How is stock distributed across categories and cities?
-	
-	
-	
-	
-	
+•	How is stock distributed across categories and cities?		
 •	Which brands and products perform better?
-
-
-
-
-
-
-
-
 
 Dashboard 1 — Sales Analysis
 The Sales Analysis dashboard provides an executive overview of E-Commerce performance.
@@ -38,11 +25,6 @@ Average Order Value	23.72K
 Total Revenue	5.93B
 Total Orders	250K
 Total Quantity	312K
-
-
-
-
-
 
 Analysis Included
 •	Monthly Revenue Trend
@@ -126,27 +108,7 @@ Business Analysis
 •	Category analysis
 •	Inventory analysis
 •	Payment method analysis
-Dashboard Preview
-Sales Analysis
 
- 
-
-
-
-
-
-
-Customer Analysis
-
- 
-
-
-
-
-
-
-
-Product  Analysis
 
 Project Highlights
 This project demonstrates how raw E-Commerce data can be transformed into an interactive Business Intelligence solution.
